@@ -1,0 +1,9 @@
+.address{
+    background-color: orange;
+    margin-bottom: 5px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    border-radius: 10px;
+}

@@ -1,0 +1,10 @@
+.car{
+    background-color: aqua;
+    border-radius: 5px;
+    padding: 3px;
+    display: flex;
+    align-items: end;
+    flex-direction: column;
+    margin-bottom: 5px;
+    color: #FFF;
+}
